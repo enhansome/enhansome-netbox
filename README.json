@@ -1,0 +1,422 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "netbox-community/ansible_modules",
+          "description": "NetBox modules for Ansible using Ansible Collections.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T14:41:25Z",
+            "owner": "netbox-community",
+            "repo": "ansible_modules",
+            "stars": 395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lae/ansible-role-netbox",
+          "description": "Cross-platform Ansible role for deploying NetBox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-17T16:30:50Z",
+            "owner": "lae",
+            "repo": "ansible-role-netbox",
+            "stars": 224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "osism/ansible-collection-services",
+          "description": "Ansible collection with service roles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T12:36:28Z",
+            "owner": "osism",
+            "repo": "ansible-collection-services",
+            "stars": 34
+          }
+        }
+      ],
+      "title": "Ansible"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "netbox-community/netbox-docker",
+          "description": "Docker Image of NetBox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T11:29:47Z",
+            "owner": "netbox-community",
+            "repo": "netbox-docker",
+            "stars": 2725
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "netbox-community/netbox-chart",
+          "description": "Helm Chart for NetBox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Mustache",
+            "last_commit": "2026-08-13T04:06:07Z",
+            "owner": "netbox-community",
+            "repo": "netbox-chart",
+            "stars": 353
+          }
+        }
+      ],
+      "title": "Deployment"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "netbox-community/devicetype-library",
+          "description": "A collection of community-sourced DeviceType definitions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T15:23:19Z",
+            "owner": "netbox-community",
+            "repo": "devicetype-library",
+            "stars": 1582
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solvik/netbox-agent",
+          "description": "Project aims to create hardware automatically into Netbox based on standard tools (dmidecode, lldpd, parsing /sys/, etc).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T03:36:25Z",
+            "owner": "Solvik",
+            "repo": "netbox-agent",
+            "stars": 394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "minitriga/Netbox-Device-Type-Library-Import",
+          "description": "The library is intended to be your friend and help you import all the device-types defined within the the NetBox Device Type Library Repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-11T13:12:04Z",
+            "owner": "netbox-community",
+            "repo": "Device-Type-Library-Import",
+            "stars": 386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lopes/netbox-scanner",
+          "description": "A scanner util for NetBox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-05T18:30:49Z",
+            "owner": "lopes",
+            "repo": "netbox-scanner",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "den-it/ntmap",
+          "description": "Network topology map using Netbox as a data source.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-10T07:46:49Z",
+            "owner": "den-it",
+            "repo": "ntmap",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "netreplica/graphite",
+          "description": "Standalone topology visualizer Netreplica .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-01T05:27:00Z",
+            "owner": "netreplica",
+            "repo": "graphite",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NCCloud/netbox-resources-operator",
+          "description": "A Kubernetes operator to manage NetBox resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-25T14:37:20Z",
+            "owner": "NCCloud",
+            "repo": "netbox-resources-operator",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kosimovsky/nbcli",
+          "description": "CLI tool for Netbox API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2022-06-29T19:18:10Z",
+            "owner": "kosimovsky",
+            "repo": "nbcli",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Utilities"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bb-Ricardo/netbox-sync",
+          "description": "Sync objects from VMware or redfish sources to NetBox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-16T21:42:30Z",
+            "owner": "bb-Ricardo",
+            "repo": "netbox-sync",
+            "stars": 406
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TheNetworkGuy/netbox-zabbix-sync",
+          "description": "Python script to syncronise Netbox devices to Zabbix.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T14:14:55Z",
+            "owner": "TheNetworkGuy",
+            "repo": "netbox-zabbix-sync",
+            "stars": 230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scaleway/netbox2netshot",
+          "description": "Inventory synchronization tool between Netbox and Netshot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-01-30T14:59:23Z",
+            "owner": "scaleway",
+            "repo": "netbox2netshot",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sol1/icingaweb2-module-netbox",
+          "description": "Icingaweb2 module to syncronise Netbox objects Icinga Director.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-23T01:35:08Z",
+            "owner": "sol1",
+            "repo": "icingaweb2-module-netbox",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "Synchronization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "netbox-community/pynetbox",
+          "description": "Python API client library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T16:03:39Z",
+            "owner": "netbox-community",
+            "repo": "pynetbox",
+            "stars": 683
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "netbox-community/go-netbox",
+          "description": "Go API client library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-05-09T15:20:18Z",
+            "owner": "netbox-community",
+            "repo": "go-netbox",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "benclaussen/NetboxPS",
+          "description": "Powershell module for Netbox.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PowerShell",
+            "last_commit": "2026-04-23T20:16:16Z",
+            "owner": "benclaussen",
+            "repo": "NetboxPS",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ninech/netbox-client-ruby",
+          "description": "Ruby API client library (NetBox v2).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-07-08T12:38:06Z",
+            "owner": "ninech",
+            "repo": "netbox-client-ruby",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "timeforplanb123/anac",
+          "description": "Python Async NetBox API Client, based on httpx and pydantic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-19T07:06:54Z",
+            "owner": "timeforplanb123",
+            "repo": "anac",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hexa2k9/netbox-php",
+          "description": "PHP API client library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2023-02-15T17:19:40Z",
+            "owner": "hexa2k9",
+            "repo": "netbox-php",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KashinYaS/NetBoxPowerShell",
+          "description": "PowerShell wrapper to NetBox API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2022-07-14T06:08:54Z",
+            "owner": "KashinYaS",
+            "repo": "NetBoxPowerShell",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "SDKs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "e-breuninger/terraform-provider-netbox",
+          "description": "Terraform provider to interact with Netbox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-04T10:27:48Z",
+            "owner": "e-breuninger",
+            "repo": "terraform-provider-netbox",
+            "stars": 291
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "smutel/terraform-provider-netbox",
+          "description": "Terraform provider for Netbox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-29T06:24:35Z",
+            "owner": "smutel",
+            "repo": "terraform-provider-netbox",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "Terraform"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "Contributions of any kind welcome, just follow the guidelines!",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:19:58.959Z",
+    "original_repository": "netbox-community/awesome-netbox",
+    "original_repository_sha": "454bb1edada7336bdd9d1886b3083261117eb50a",
+    "enhanced_repository": "enhansome/enhansome-netbox",
+    "enhanced_repository_description": null,
+    "title": "Awesome NetBox with stars"
+  }
+}
