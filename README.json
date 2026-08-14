@@ -62,7 +62,7 @@
             "last_commit": "2026-08-13T10:23:33Z",
             "owner": "netbox-community",
             "repo": "netbox-docker",
-            "stars": 2727
+            "stars": 2729
           }
         },
         {
@@ -93,10 +93,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T09:57:42Z",
+            "last_commit": "2026-08-14T13:56:15Z",
             "owner": "netbox-community",
             "repo": "devicetype-library",
-            "stars": 1582
+            "stars": 1584
           }
         },
         {
@@ -107,7 +107,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T03:36:25Z",
+            "last_commit": "2026-08-13T17:52:32Z",
             "owner": "Solvik",
             "repo": "netbox-agent",
             "stars": 394
@@ -412,7 +412,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T14:08:09.974Z",
+    "last_updated": "2026-08-14T14:03:07.704Z",
     "original_repository": "netbox-community/awesome-netbox",
     "original_repository_sha": "454bb1edada7336bdd9d1886b3083261117eb50a",
     "enhanced_repository": "enhansome/enhansome-netbox",
