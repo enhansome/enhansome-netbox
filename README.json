@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T12:36:28Z",
+            "last_commit": "2026-08-15T10:26:22Z",
             "owner": "osism",
             "repo": "ansible-collection-services",
             "stars": 34
@@ -73,7 +73,7 @@
           "repo_info": {
             "archived": false,
             "language": "Mustache",
-            "last_commit": "2026-08-13T04:06:07Z",
+            "last_commit": "2026-08-15T04:47:35Z",
             "owner": "netbox-community",
             "repo": "netbox-chart",
             "stars": 353
@@ -93,10 +93,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T13:56:15Z",
+            "last_commit": "2026-08-14T14:14:37Z",
             "owner": "netbox-community",
             "repo": "devicetype-library",
-            "stars": 1584
+            "stars": 1585
           }
         },
         {
@@ -412,7 +412,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T14:03:07.704Z",
+    "last_updated": "2026-08-15T13:17:21.308Z",
     "original_repository": "netbox-community/awesome-netbox",
     "original_repository_sha": "454bb1edada7336bdd9d1886b3083261117eb50a",
     "enhanced_repository": "enhansome/enhansome-netbox",
