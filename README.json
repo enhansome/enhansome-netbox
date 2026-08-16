@@ -42,7 +42,7 @@
             "last_commit": "2026-08-15T10:26:22Z",
             "owner": "osism",
             "repo": "ansible-collection-services",
-            "stars": 34
+            "stars": 35
           }
         }
       ],
@@ -62,7 +62,7 @@
             "last_commit": "2026-08-13T10:23:33Z",
             "owner": "netbox-community",
             "repo": "netbox-docker",
-            "stars": 2729
+            "stars": 2728
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-14T14:14:37Z",
             "owner": "netbox-community",
             "repo": "devicetype-library",
-            "stars": 1585
+            "stars": 1584
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2026-07-21T16:03:39Z",
             "owner": "netbox-community",
             "repo": "pynetbox",
-            "stars": 683
+            "stars": 682
           }
         },
         {
@@ -412,7 +412,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T13:17:21.308Z",
+    "last_updated": "2026-08-16T13:19:20.660Z",
     "original_repository": "netbox-community/awesome-netbox",
     "original_repository_sha": "454bb1edada7336bdd9d1886b3083261117eb50a",
     "enhanced_repository": "enhansome/enhansome-netbox",
