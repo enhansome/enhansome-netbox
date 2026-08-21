@@ -42,7 +42,7 @@
             "archived": false,
             "id": 284944501,
             "language": "Python",
-            "last_commit": "2026-08-18T23:04:32Z",
+            "last_commit": "2026-08-20T21:57:37Z",
             "owner": "osism",
             "repo": "ansible-collection-services",
             "stars": 35
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 88978363,
             "language": "Python",
-            "last_commit": "2026-08-13T10:23:33Z",
+            "last_commit": "2026-08-21T09:52:36Z",
             "owner": "netbox-community",
             "repo": "netbox-docker",
-            "stars": 2733
+            "stars": 2735
           }
         },
         {
@@ -102,7 +102,7 @@
             "last_commit": "2026-08-19T20:10:09Z",
             "owner": "netbox-community",
             "repo": "devicetype-library",
-            "stars": 1590
+            "stars": 1591
           }
         },
         {
@@ -114,7 +114,7 @@
             "archived": false,
             "id": 200266584,
             "language": "Python",
-            "last_commit": "2026-08-20T06:29:47Z",
+            "last_commit": "2026-08-20T19:57:29Z",
             "owner": "Solvik",
             "repo": "netbox-agent",
             "stars": 392
@@ -228,7 +228,7 @@
             "last_commit": "2026-05-16T21:42:30Z",
             "owner": "bb-Ricardo",
             "repo": "netbox-sync",
-            "stars": 407
+            "stars": 408
           }
         },
         {
@@ -402,7 +402,7 @@
             "archived": false,
             "id": 288719776,
             "language": "Go",
-            "last_commit": "2026-08-18T07:57:23Z",
+            "last_commit": "2026-08-21T04:02:46Z",
             "owner": "e-breuninger",
             "repo": "terraform-provider-netbox",
             "stars": 291
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T13:33:19.937Z",
+    "last_updated": "2026-08-21T13:32:13.128Z",
     "original_repository": "netbox-community/awesome-netbox",
     "original_repository_id": 558075862,
     "original_repository_sha": "454bb1edada7336bdd9d1886b3083261117eb50a",
