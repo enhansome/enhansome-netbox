@@ -42,7 +42,7 @@
             "archived": false,
             "id": 284944501,
             "language": "Python",
-            "last_commit": "2026-08-20T21:57:37Z",
+            "last_commit": "2026-08-23T02:34:15Z",
             "owner": "osism",
             "repo": "ansible-collection-services",
             "stars": 35
@@ -78,7 +78,7 @@
             "archived": false,
             "id": 197973341,
             "language": "Mustache",
-            "last_commit": "2026-08-19T04:58:24Z",
+            "last_commit": "2026-08-23T02:46:35Z",
             "owner": "netbox-community",
             "repo": "netbox-chart",
             "stars": 354
@@ -428,7 +428,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T13:19:20.214Z",
+    "last_updated": "2026-08-23T13:20:24.600Z",
     "original_repository": "netbox-community/awesome-netbox",
     "original_repository_id": 558075862,
     "original_repository_sha": "454bb1edada7336bdd9d1886b3083261117eb50a",
