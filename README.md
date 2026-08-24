@@ -76,7 +76,7 @@ A curated list of awesome resources related to NetBox!
 
 ## Utilities
 
-* [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library) ⭐ 1,592 | 🐛 45 | 🌐 Python | 📅 2026-08-24 - A collection of community-sourced DeviceType definitions.
+* [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library) ⭐ 1,593 | 🐛 45 | 🌐 Python | 📅 2026-08-24 - A collection of community-sourced DeviceType definitions.
 * [Solvik/netbox-agent](https://github.com/Solvik/netbox-agent) ⭐ 392 | 🐛 59 | 🌐 Python | 📅 2026-08-20 - Project aims to create hardware automatically into Netbox based on standard tools (dmidecode, lldpd, parsing /sys/, etc).
 * [minitriga/Netbox-Device-Type-Library-Import](https://github.com/minitriga/Netbox-Device-Type-Library-Import) ⭐ 385 | 🐛 55 | 🌐 Python | 📅 2025-03-11 - The library is intended to be your friend and help you import all the device-types defined within the the NetBox Device Type Library Repository.
 * [lopes/netbox-scanner](https://github.com/lopes/netbox-scanner) ⭐ 204 | 🐛 17 | 🌐 Python | 📅 2026-06-05 - A scanner util for NetBox.

@@ -102,7 +102,7 @@
             "last_commit": "2026-08-24T09:54:53Z",
             "owner": "netbox-community",
             "repo": "devicetype-library",
-            "stars": 1592
+            "stars": 1593
           }
         },
         {
@@ -425,10 +425,60 @@
         }
       ],
       "title": "Terraform"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NetBox Plugin Tutorial",
+              "description": "NetBox Plugin Development Tutorial.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 470708364,
+                "language": null,
+                "last_commit": "2026-03-18T12:38:35Z",
+                "owner": "netbox-community",
+                "repo": "netbox-plugin-tutorial",
+                "stars": 137
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Educational"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub Discussions",
+              "description": "Discussion forum hosted by GitHub; ideal for Q&A and other structured discussions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52796596,
+                "language": "Python",
+                "last_commit": "2026-08-24T14:18:50Z",
+                "owner": "netbox-community",
+                "repo": "netbox",
+                "stars": 21359
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Community"
+        }
+      ],
+      "title": "Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:37:23.576Z",
+    "last_updated": "2026-08-24T14:26:44.347Z",
     "original_repository": "netbox-community/awesome-netbox",
     "original_repository_id": 558075862,
     "original_repository_sha": "454bb1edada7336bdd9d1886b3083261117eb50a",
