@@ -42,7 +42,7 @@
             "archived": false,
             "id": 284944501,
             "language": "Python",
-            "last_commit": "2026-08-23T18:45:31Z",
+            "last_commit": "2026-08-24T16:54:33Z",
             "owner": "osism",
             "repo": "ansible-collection-services",
             "stars": 35
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-24T04:09:33Z",
             "owner": "netbox-community",
             "repo": "netbox-docker",
-            "stars": 2736
+            "stars": 2738
           }
         },
         {
@@ -78,7 +78,7 @@
             "archived": false,
             "id": 197973341,
             "language": "Mustache",
-            "last_commit": "2026-08-23T02:46:35Z",
+            "last_commit": "2026-08-24T22:47:52Z",
             "owner": "netbox-community",
             "repo": "netbox-chart",
             "stars": 354
@@ -99,7 +99,7 @@
             "archived": false,
             "id": 210910084,
             "language": "Python",
-            "last_commit": "2026-08-24T09:54:53Z",
+            "last_commit": "2026-08-24T15:22:18Z",
             "owner": "netbox-community",
             "repo": "devicetype-library",
             "stars": 1593
@@ -402,7 +402,7 @@
             "archived": false,
             "id": 288719776,
             "language": "Go",
-            "last_commit": "2026-08-24T04:02:54Z",
+            "last_commit": "2026-08-25T04:02:56Z",
             "owner": "e-breuninger",
             "repo": "terraform-provider-netbox",
             "stars": 291
@@ -462,10 +462,10 @@
                 "archived": false,
                 "id": 52796596,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:18:50Z",
+                "last_commit": "2026-08-25T05:09:59Z",
                 "owner": "netbox-community",
                 "repo": "netbox",
-                "stars": 21359
+                "stars": 21363
               }
             }
           ],
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:26:44.347Z",
+    "last_updated": "2026-08-25T06:21:24.586Z",
     "original_repository": "netbox-community/awesome-netbox",
     "original_repository_id": 558075862,
     "original_repository_sha": "454bb1edada7336bdd9d1886b3083261117eb50a",
