@@ -42,7 +42,7 @@
             "archived": false,
             "id": 284944501,
             "language": "Python",
-            "last_commit": "2026-08-24T16:54:33Z",
+            "last_commit": "2026-08-25T18:57:19Z",
             "owner": "osism",
             "repo": "ansible-collection-services",
             "stars": 35
@@ -63,10 +63,10 @@
             "archived": false,
             "id": 88978363,
             "language": "Python",
-            "last_commit": "2026-08-24T04:09:33Z",
+            "last_commit": "2026-08-25T19:06:09Z",
             "owner": "netbox-community",
             "repo": "netbox-docker",
-            "stars": 2740
+            "stars": 2742
           }
         },
         {
@@ -78,7 +78,7 @@
             "archived": false,
             "id": 197973341,
             "language": "Mustache",
-            "last_commit": "2026-08-24T22:47:52Z",
+            "last_commit": "2026-08-26T08:10:34Z",
             "owner": "netbox-community",
             "repo": "netbox-chart",
             "stars": 354
@@ -99,10 +99,10 @@
             "archived": false,
             "id": 210910084,
             "language": "Python",
-            "last_commit": "2026-08-25T10:42:13Z",
+            "last_commit": "2026-08-26T12:22:49Z",
             "owner": "netbox-community",
             "repo": "devicetype-library",
-            "stars": 1593
+            "stars": 1594
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2026-08-20T19:57:29Z",
             "owner": "Solvik",
             "repo": "netbox-agent",
-            "stars": 392
+            "stars": 393
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2026-06-05T18:30:49Z",
             "owner": "lopes",
             "repo": "netbox-scanner",
-            "stars": 204
+            "stars": 205
           }
         },
         {
@@ -177,7 +177,7 @@
             "last_commit": "2026-08-22T11:46:21Z",
             "owner": "netreplica",
             "repo": "graphite",
-            "stars": 89
+            "stars": 90
           }
         },
         {
@@ -294,7 +294,7 @@
             "last_commit": "2026-07-21T16:03:39Z",
             "owner": "netbox-community",
             "repo": "pynetbox",
-            "stars": 681
+            "stars": 682
           }
         },
         {
@@ -462,10 +462,10 @@
                 "archived": false,
                 "id": 52796596,
                 "language": "Python",
-                "last_commit": "2026-08-25T13:06:39Z",
+                "last_commit": "2026-08-26T13:19:30Z",
                 "owner": "netbox-community",
                 "repo": "netbox",
-                "stars": 21365
+                "stars": 21389
               }
             }
           ],
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T13:35:48.517Z",
+    "last_updated": "2026-08-26T13:40:16.378Z",
     "original_repository": "netbox-community/awesome-netbox",
     "original_repository_id": 558075862,
     "original_repository_sha": "454bb1edada7336bdd9d1886b3083261117eb50a",
