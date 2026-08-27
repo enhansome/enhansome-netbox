@@ -42,7 +42,7 @@
             "archived": false,
             "id": 284944501,
             "language": "Python",
-            "last_commit": "2026-08-25T18:57:19Z",
+            "last_commit": "2026-08-26T18:58:21Z",
             "owner": "osism",
             "repo": "ansible-collection-services",
             "stars": 35
@@ -78,7 +78,7 @@
             "archived": false,
             "id": 197973341,
             "language": "Mustache",
-            "last_commit": "2026-08-26T08:10:34Z",
+            "last_commit": "2026-08-26T16:44:14Z",
             "owner": "netbox-community",
             "repo": "netbox-chart",
             "stars": 354
@@ -99,7 +99,7 @@
             "archived": false,
             "id": 210910084,
             "language": "Python",
-            "last_commit": "2026-08-26T12:22:49Z",
+            "last_commit": "2026-08-27T08:44:40Z",
             "owner": "netbox-community",
             "repo": "devicetype-library",
             "stars": 1594
@@ -402,7 +402,7 @@
             "archived": false,
             "id": 288719776,
             "language": "Go",
-            "last_commit": "2026-08-25T04:02:56Z",
+            "last_commit": "2026-08-27T10:48:40Z",
             "owner": "e-breuninger",
             "repo": "terraform-provider-netbox",
             "stars": 291
@@ -462,10 +462,10 @@
                 "archived": false,
                 "id": 52796596,
                 "language": "Python",
-                "last_commit": "2026-08-26T13:19:30Z",
+                "last_commit": "2026-08-26T19:31:37Z",
                 "owner": "netbox-community",
                 "repo": "netbox",
-                "stars": 21389
+                "stars": 21399
               }
             }
           ],
@@ -478,9 +478,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:40:16.378Z",
-    "original_repository": "netbox-community/awesome-netbox",
-    "original_repository_id": 558075862,
+    "last_updated": "2026-08-27T11:51:46.263Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 558075862,
+      "language": null,
+      "last_commit": "2026-01-16T13:44:54Z",
+      "owner": "netbox-community",
+      "repo": "awesome-netbox",
+      "stars": 350
+    },
     "original_repository_sha": "454bb1edada7336bdd9d1886b3083261117eb50a",
     "enhanced_repository": "enhansome/enhansome-netbox",
     "enhanced_repository_description": null,
