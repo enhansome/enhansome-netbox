@@ -16,7 +16,8 @@
             "owner": "netbox-community",
             "repo": "ansible_modules",
             "stars": 397
-          }
+          },
+          "first_seen": "2026-08-28T22:41:06.804Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "lae",
             "repo": "ansible-role-netbox",
             "stars": 224
-          }
+          },
+          "first_seen": "2026-08-28T22:41:06.804Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 284944501,
             "language": "Python",
-            "last_commit": "2026-08-27T22:03:34Z",
+            "last_commit": "2026-08-28T22:05:52Z",
             "owner": "osism",
             "repo": "ansible-collection-services",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T22:41:06.804Z"
         }
       ],
       "title": "Ansible"
@@ -66,8 +69,9 @@
             "last_commit": "2026-08-25T19:06:09Z",
             "owner": "netbox-community",
             "repo": "netbox-docker",
-            "stars": 2742
-          }
+            "stars": 2743
+          },
+          "first_seen": "2026-08-28T22:41:06.804Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "netbox-community",
             "repo": "netbox-chart",
             "stars": 354
-          }
+          },
+          "first_seen": "2026-08-28T22:41:06.804Z"
         }
       ],
       "title": "Deployment"
@@ -99,11 +104,12 @@
             "archived": false,
             "id": 210910084,
             "language": "Python",
-            "last_commit": "2026-08-27T14:11:09Z",
+            "last_commit": "2026-08-28T20:50:03Z",
             "owner": "netbox-community",
             "repo": "devicetype-library",
             "stars": 1594
-          }
+          },
+          "first_seen": "2026-08-28T22:41:06.804Z"
         },
         {
           "node_type": "item",
@@ -118,7 +124,8 @@
             "owner": "Solvik",
             "repo": "netbox-agent",
             "stars": 393
-          }
+          },
+          "first_seen": "2026-08-28T22:41:06.804Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "netbox-community",
             "repo": "Device-Type-Library-Import",
             "stars": 385
-          }
+          },
+          "first_seen": "2026-08-28T22:41:06.804Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "lopes",
             "repo": "netbox-scanner",
             "stars": 206
-          }
+          },
+          "first_seen": "2026-08-28T22:41:06.804Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "den-it",
             "repo": "ntmap",
             "stars": 165
-          }
+          },
+          "first_seen": "2026-08-28T22:41:06.804Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "netreplica",
             "repo": "graphite",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T22:41:06.804Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "NCCloud",
             "repo": "netbox-resources-operator",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T22:41:06.804Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "kosimovsky",
             "repo": "nbcli",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T22:41:06.804Z"
         }
       ],
       "title": "Utilities"
@@ -229,7 +242,8 @@
             "owner": "bb-Ricardo",
             "repo": "netbox-sync",
             "stars": 408
-          }
+          },
+          "first_seen": "2026-08-28T22:41:06.804Z"
         },
         {
           "node_type": "item",
@@ -244,7 +258,8 @@
             "owner": "TheNetworkGuy",
             "repo": "netbox-zabbix-sync",
             "stars": 230
-          }
+          },
+          "first_seen": "2026-08-28T22:41:06.804Z"
         },
         {
           "node_type": "item",
@@ -259,7 +274,8 @@
             "owner": "scaleway",
             "repo": "netbox2netshot",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T22:41:06.804Z"
         },
         {
           "node_type": "item",
@@ -274,7 +290,8 @@
             "owner": "sol1",
             "repo": "icingaweb2-module-netbox",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T22:41:06.804Z"
         }
       ],
       "title": "Synchronization"
@@ -295,7 +312,8 @@
             "owner": "netbox-community",
             "repo": "pynetbox",
             "stars": 682
-          }
+          },
+          "first_seen": "2026-08-28T22:41:06.804Z"
         },
         {
           "node_type": "item",
@@ -310,7 +328,8 @@
             "owner": "netbox-community",
             "repo": "go-netbox",
             "stars": 225
-          }
+          },
+          "first_seen": "2026-08-28T22:41:06.804Z"
         },
         {
           "node_type": "item",
@@ -325,7 +344,8 @@
             "owner": "benclaussen",
             "repo": "NetboxPS",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T22:41:06.804Z"
         },
         {
           "node_type": "item",
@@ -340,7 +360,8 @@
             "owner": "ninech",
             "repo": "netbox-client-ruby",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T22:41:06.804Z"
         },
         {
           "node_type": "item",
@@ -355,7 +376,8 @@
             "owner": "timeforplanb123",
             "repo": "anac",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T22:41:06.804Z"
         },
         {
           "node_type": "item",
@@ -370,7 +392,8 @@
             "owner": "hexa2k9",
             "repo": "netbox-php",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T22:41:06.804Z"
         },
         {
           "node_type": "item",
@@ -385,7 +408,8 @@
             "owner": "KashinYaS",
             "repo": "NetBoxPowerShell",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T22:41:06.804Z"
         }
       ],
       "title": "SDKs"
@@ -402,11 +426,12 @@
             "archived": false,
             "id": 288719776,
             "language": "Go",
-            "last_commit": "2026-08-27T10:48:40Z",
+            "last_commit": "2026-08-28T07:54:09Z",
             "owner": "e-breuninger",
             "repo": "terraform-provider-netbox",
             "stars": 291
-          }
+          },
+          "first_seen": "2026-08-28T22:41:06.804Z"
         },
         {
           "node_type": "item",
@@ -421,7 +446,8 @@
             "owner": "smutel",
             "repo": "terraform-provider-netbox",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T22:41:06.804Z"
         }
       ],
       "title": "Terraform"
@@ -443,8 +469,9 @@
                 "last_commit": "2026-03-18T12:38:35Z",
                 "owner": "netbox-community",
                 "repo": "netbox-plugin-tutorial",
-                "stars": 137
-              }
+                "stars": 138
+              },
+              "first_seen": "2026-08-28T22:41:06.804Z"
             }
           ],
           "description": null,
@@ -462,11 +489,12 @@
                 "archived": false,
                 "id": 52796596,
                 "language": "Python",
-                "last_commit": "2026-08-27T22:14:38Z",
+                "last_commit": "2026-08-28T20:18:10Z",
                 "owner": "netbox-community",
                 "repo": "netbox",
-                "stars": 21403
-              }
+                "stars": 21406
+              },
+              "first_seen": "2026-08-28T22:41:06.804Z"
             }
           ],
           "description": null,
@@ -478,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:36:34.123Z",
+    "last_updated": "2026-08-28T22:41:06.804Z",
     "original_repository_info": {
       "archived": false,
       "id": 558075862,
