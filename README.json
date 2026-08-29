@@ -97,7 +97,7 @@
             "open_issues": 15,
             "owner": "netbox-community",
             "repo": "netbox-docker",
-            "stars": 2744,
+            "stars": 2745,
             "topics": [
               "docker",
               "docker-compose",
@@ -154,8 +154,8 @@
             "id": 210910084,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-08-28T20:50:03Z",
-            "open_issues": 41,
+            "last_commit": "2026-08-29T08:02:42Z",
+            "open_issues": 53,
             "owner": "netbox-community",
             "repo": "devicetype-library",
             "stars": 1594,
@@ -652,10 +652,10 @@
             "language": "Go",
             "license": "MPL-2.0",
             "last_commit": "2026-08-28T07:54:09Z",
-            "open_issues": 179,
+            "open_issues": 187,
             "owner": "e-breuninger",
             "repo": "terraform-provider-netbox",
-            "stars": 291,
+            "stars": 292,
             "topics": [
               "netbox",
               "terraform",
@@ -733,11 +733,11 @@
                 "id": 52796596,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T20:18:10Z",
-                "open_issues": 196,
+                "last_commit": "2026-08-29T05:02:17Z",
+                "open_issues": 197,
                 "owner": "netbox-community",
                 "repo": "netbox",
-                "stars": 21407,
+                "stars": 21420,
                 "topics": [
                   "cabling",
                   "dcim",
@@ -762,7 +762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:45:04.017Z",
+    "last_updated": "2026-08-29T16:52:36.544Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome NetBox resources",
