@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NetBox modules for Ansible using Ansible Collections",
+            "homepage": null,
             "id": 204365310,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-04T14:41:25Z",
+            "open_issues": 247,
             "owner": "netbox-community",
             "repo": "ansible_modules",
-            "stars": 397
+            "stars": 397,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:41:06.804Z"
         },
@@ -26,12 +31,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cross-platform Ansible role for deploying NetBox, a DCIM/IPAM tool, in a production environment.",
+            "homepage": null,
             "id": 81477843,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-17T16:30:50Z",
+            "open_issues": 18,
             "owner": "lae",
             "repo": "ansible-role-netbox",
-            "stars": 224
+            "stars": 224,
+            "topics": [
+              "ansible",
+              "dcim",
+              "inventory-management",
+              "ipam",
+              "netbox"
+            ]
           },
           "first_seen": "2026-08-28T22:41:06.804Z"
         },
@@ -42,12 +58,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ansible collection with service roles",
+            "homepage": "https://osism.github.io/docs/guides/configuration-guide/services/",
             "id": 284944501,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:05:52Z",
+            "open_issues": 11,
             "owner": "osism",
             "repo": "ansible-collection-services",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "ansible",
+              "ansible-collection"
+            ]
           },
           "first_seen": "2026-08-28T22:41:06.804Z"
         }
@@ -64,12 +88,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐳  Docker Image of NetBox",
+            "homepage": "https://github.com/netbox-community/netbox-docker/wiki",
             "id": 88978363,
             "language": "Python",
-            "last_commit": "2026-08-25T19:06:09Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:05:46Z",
+            "open_issues": 15,
             "owner": "netbox-community",
             "repo": "netbox-docker",
-            "stars": 2743
+            "stars": 2744,
+            "topics": [
+              "docker",
+              "docker-compose",
+              "docker-image",
+              "hacktoberfest",
+              "netbox",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T22:41:06.804Z"
         },
@@ -80,12 +116,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Helm chart for NetBox",
+            "homepage": "https://netbox.readthedocs.io/",
             "id": 197973341,
             "language": "Mustache",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T21:01:04Z",
+            "open_issues": 6,
             "owner": "netbox-community",
             "repo": "netbox-chart",
-            "stars": 354
+            "stars": 354,
+            "topics": [
+              "dcim",
+              "helm",
+              "ipam",
+              "kubernetes",
+              "netbox"
+            ]
           },
           "first_seen": "2026-08-28T22:41:06.804Z"
         }
@@ -102,12 +149,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of community-sourced DeviceType definitions for import to NetBox",
+            "homepage": null,
             "id": 210910084,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-28T20:50:03Z",
+            "open_issues": 41,
             "owner": "netbox-community",
             "repo": "devicetype-library",
-            "stars": 1594
+            "stars": 1594,
+            "topics": [
+              "hacktoberfest",
+              "netbox"
+            ]
           },
           "first_seen": "2026-08-28T22:41:06.804Z"
         },
@@ -118,12 +173,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Netbox agent to run on your infrastructure's servers",
+            "homepage": null,
             "id": 200266584,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T20:46:47Z",
+            "open_issues": 58,
             "owner": "Solvik",
             "repo": "netbox-agent",
-            "stars": 393
+            "stars": 393,
+            "topics": [
+              "agent",
+              "dcim",
+              "inventory",
+              "netbox",
+              "network-inventory",
+              "system-information"
+            ]
           },
           "first_seen": "2026-08-28T22:41:06.804Z"
         },
@@ -134,12 +201,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This library is intended to assist with importing device and module types into NetBox from the NetBox Community DeviceType-Library",
+            "homepage": "https://github.com/netbox-community/devicetype-library",
             "id": 241896606,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-11T13:12:04Z",
+            "open_issues": 56,
             "owner": "netbox-community",
             "repo": "Device-Type-Library-Import",
-            "stars": 385
+            "stars": 385,
+            "topics": [
+              "netbox",
+              "netbox-devicetype-library"
+            ]
           },
           "first_seen": "2026-08-28T22:41:06.804Z"
         },
@@ -150,12 +225,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A scanner util for NetBox",
+            "homepage": null,
             "id": 148355627,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-05T18:30:49Z",
+            "open_issues": 17,
             "owner": "lopes",
             "repo": "netbox-scanner",
-            "stars": 206
+            "stars": 206,
+            "topics": [
+              "api",
+              "cisco",
+              "cisco-prime",
+              "ipam",
+              "netbox",
+              "netbox-scanner",
+              "network",
+              "networking",
+              "netxms",
+              "nmap",
+              "python",
+              "xml"
+            ]
           },
           "first_seen": "2026-08-28T22:41:06.804Z"
         },
@@ -166,12 +259,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Network topology map using Netbox as a data source",
+            "homepage": null,
             "id": 281489659,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-10T07:46:49Z",
+            "open_issues": 14,
             "owner": "den-it",
             "repo": "ntmap",
-            "stars": 165
+            "stars": 165,
+            "topics": [
+              "d3",
+              "graph",
+              "netbox",
+              "network",
+              "network-engineering",
+              "network-map",
+              "topology"
+            ]
           },
           "first_seen": "2026-08-28T22:41:06.804Z"
         },
@@ -182,12 +288,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Visualization for Network Topologies – NetBox, Containerlab, Netlab",
+            "homepage": "https://netreplica.com",
             "id": 457231862,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-22T11:46:21Z",
+            "open_issues": 25,
             "owner": "netreplica",
             "repo": "graphite",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "containerlab",
+              "netbox",
+              "networking",
+              "nextui",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T22:41:06.804Z"
         },
@@ -198,12 +315,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Kubernetes operator to manage NetBox resources :rocket:",
+            "homepage": null,
             "id": 1133517625,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-25T14:37:20Z",
+            "open_issues": 1,
             "owner": "NCCloud",
             "repo": "netbox-resources-operator",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "infrastructure",
+              "kubernetes",
+              "netbox",
+              "operator",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T22:41:06.804Z"
         },
@@ -214,12 +342,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CLI tool for Netbox API",
+            "homepage": null,
             "id": 508814566,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-06-29T19:18:10Z",
+            "open_issues": 0,
             "owner": "kosimovsky",
             "repo": "nbcli",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:41:06.804Z"
         }
@@ -236,12 +369,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sync objects from VMware or redfish sources to NetBox",
+            "homepage": null,
             "id": 307420604,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-16T21:42:30Z",
+            "open_issues": 55,
             "owner": "bb-Ricardo",
             "repo": "netbox-sync",
-            "stars": 408
+            "stars": 408,
+            "topics": [
+              "netbox",
+              "netbox-automation",
+              "python",
+              "redfish",
+              "sync",
+              "vcenter",
+              "vmware"
+            ]
           },
           "first_seen": "2026-08-28T22:41:06.804Z"
         },
@@ -252,12 +398,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python script to synchronise Netbox devices to Zabbix.",
+            "homepage": null,
             "id": 356936350,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-20T14:14:55Z",
+            "open_issues": 36,
             "owner": "TheNetworkGuy",
             "repo": "netbox-zabbix-sync",
-            "stars": 230
+            "stars": 230,
+            "topics": [
+              "netbox",
+              "zabbix"
+            ]
           },
           "first_seen": "2026-08-28T22:41:06.804Z"
         },
@@ -268,12 +422,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Inventory synchronization tool between Netbox and Netshot",
+            "homepage": null,
             "id": 361826659,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-30T14:59:23Z",
+            "open_issues": 2,
             "owner": "scaleway",
             "repo": "netbox2netshot",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:41:06.804Z"
         },
@@ -284,12 +443,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Netbox importer for director, and integration with netbox",
+            "homepage": null,
             "id": 240195109,
             "language": "PHP",
+            "license": null,
             "last_commit": "2026-07-23T01:35:08Z",
+            "open_issues": 1,
             "owner": "sol1",
             "repo": "icingaweb2-module-netbox",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:41:06.804Z"
         }
@@ -306,12 +470,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python API client library for Netbox.",
+            "homepage": null,
             "id": 91131383,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T19:22:54Z",
+            "open_issues": 7,
             "owner": "netbox-community",
             "repo": "pynetbox",
-            "stars": 682
+            "stars": 682,
+            "topics": [
+              "netbox",
+              "netbox-api"
+            ]
           },
           "first_seen": "2026-08-28T22:41:06.804Z"
         },
@@ -322,12 +494,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official Go API client for Netbox IPAM and DCIM service.",
+            "homepage": null,
             "id": 62183066,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2025-05-09T15:20:18Z",
+            "open_issues": 10,
             "owner": "netbox-community",
             "repo": "go-netbox",
-            "stars": 225
+            "stars": 225,
+            "topics": [
+              "go",
+              "netbox",
+              "netbox-api"
+            ]
           },
           "first_seen": "2026-08-28T22:41:06.804Z"
         },
@@ -338,12 +519,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Powershell module for Netbox",
+            "homepage": null,
             "id": 133978165,
             "language": "PowerShell",
+            "license": "MIT",
             "last_commit": "2026-04-23T20:16:16Z",
+            "open_issues": 22,
             "owner": "benclaussen",
             "repo": "NetboxPS",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "api",
+              "api-wrapper",
+              "dcim",
+              "ipam",
+              "netbox",
+              "powershell",
+              "powershell-module"
+            ]
           },
           "first_seen": "2026-08-28T22:41:06.804Z"
         },
@@ -354,12 +548,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A ruby client library for Netbox v2.",
+            "homepage": null,
             "id": 88061135,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-07-08T12:38:06Z",
+            "open_issues": 10,
             "owner": "ninech",
             "repo": "netbox-client-ruby",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "docker-compose",
+              "faraday",
+              "netbox",
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T22:41:06.804Z"
         },
@@ -370,12 +574,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Async NetBox API Client",
+            "homepage": "https://timeforplanb123.github.io/anac",
             "id": 461777862,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-06-19T07:06:54Z",
+            "open_issues": 1,
             "owner": "timeforplanb123",
             "repo": "anac",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "netbox",
+              "netbox-api"
+            ]
           },
           "first_seen": "2026-08-28T22:41:06.804Z"
         },
@@ -386,12 +598,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NetBox API Client for PHP",
+            "homepage": "https://github.com/hexa2k9/netbox-php",
             "id": 498296289,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2023-02-15T17:19:40Z",
+            "open_issues": 0,
             "owner": "hexa2k9",
             "repo": "netbox-php",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:41:06.804Z"
         },
@@ -402,12 +619,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PowerShell wrapper to NetBox API",
+            "homepage": null,
             "id": 389921057,
             "language": "PowerShell",
+            "license": null,
             "last_commit": "2022-07-14T06:08:54Z",
+            "open_issues": 0,
             "owner": "KashinYaS",
             "repo": "NetBoxPowerShell",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:41:06.804Z"
         }
@@ -424,12 +646,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terraform provider to interact with Netbox",
+            "homepage": "https://registry.terraform.io/providers/e-breuninger/netbox/latest/docs",
             "id": 288719776,
             "language": "Go",
+            "license": "MPL-2.0",
             "last_commit": "2026-08-28T07:54:09Z",
+            "open_issues": 179,
             "owner": "e-breuninger",
             "repo": "terraform-provider-netbox",
-            "stars": 291
+            "stars": 291,
+            "topics": [
+              "netbox",
+              "terraform",
+              "terraform-provider"
+            ]
           },
           "first_seen": "2026-08-28T22:41:06.804Z"
         },
@@ -440,12 +671,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terraform provider for Netbox",
+            "homepage": null,
             "id": 219738239,
             "language": "Go",
+            "license": "ISC",
             "last_commit": "2026-07-29T06:24:35Z",
+            "open_issues": 2,
             "owner": "smutel",
             "repo": "terraform-provider-netbox",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:41:06.804Z"
         }
@@ -464,12 +700,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tutorial on building custom plugins for NetBox v4.5+",
+                "homepage": null,
                 "id": 470708364,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-03-18T12:38:35Z",
+                "open_issues": 4,
                 "owner": "netbox-community",
                 "repo": "netbox-plugin-tutorial",
-                "stars": 138
+                "stars": 138,
+                "topics": []
               },
               "first_seen": "2026-08-28T22:41:06.804Z"
             }
@@ -487,12 +728,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/",
+                "homepage": "https://netboxlabs.com/products/netbox/",
                 "id": 52796596,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T20:18:10Z",
+                "open_issues": 196,
                 "owner": "netbox-community",
                 "repo": "netbox",
-                "stars": 21406
+                "stars": 21407,
+                "topics": [
+                  "cabling",
+                  "dcim",
+                  "django",
+                  "infrastructure-management",
+                  "ipam",
+                  "netbox",
+                  "network",
+                  "network-automation",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T22:41:06.804Z"
             }
@@ -506,15 +762,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:41:06.804Z",
+    "last_updated": "2026-08-29T04:45:04.017Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome NetBox resources",
+      "homepage": null,
       "id": 558075862,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-01-16T13:44:54Z",
+      "open_issues": 5,
       "owner": "netbox-community",
       "repo": "awesome-netbox",
-      "stars": 350
+      "stars": 350,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "454bb1edada7336bdd9d1886b3083261117eb50a",
     "enhanced_repository": "enhansome/enhansome-netbox",
