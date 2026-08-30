@@ -97,7 +97,7 @@
             "open_issues": 15,
             "owner": "netbox-community",
             "repo": "netbox-docker",
-            "stars": 2745,
+            "stars": 2747,
             "topics": [
               "docker",
               "docker-compose",
@@ -158,7 +158,7 @@
             "open_issues": 53,
             "owner": "netbox-community",
             "repo": "devicetype-library",
-            "stars": 1594,
+            "stars": 1595,
             "topics": [
               "hacktoberfest",
               "netbox"
@@ -375,7 +375,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-05-16T21:42:30Z",
-            "open_issues": 55,
+            "open_issues": 56,
             "owner": "bb-Ricardo",
             "repo": "netbox-sync",
             "stars": 408,
@@ -734,10 +734,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-29T05:02:17Z",
-                "open_issues": 197,
+                "open_issues": 196,
                 "owner": "netbox-community",
                 "repo": "netbox",
-                "stars": 21420,
+                "stars": 21430,
                 "topics": [
                   "cabling",
                   "dcim",
@@ -762,7 +762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T16:52:36.544Z",
+    "last_updated": "2026-08-30T16:58:28.975Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome NetBox resources",
