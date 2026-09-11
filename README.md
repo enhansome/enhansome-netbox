@@ -18,7 +18,7 @@ A curated list of awesome resources related to NetBox!
 
 <!-- description -->
 
-[NetBox](https://github.com/netbox-community/netbox) ⭐ 21,504 | 🐛 211 | 🌐 Python | 📅 2026-09-10 is an infrastructure resource modeling (IRM) tool providing the ideal <strong>"source of truth"</strong> to power network automation.
+[NetBox](https://github.com/netbox-community/netbox) ⭐ 21,508 | 🐛 217 | 🌐 Python | 📅 2026-09-11 is an infrastructure resource modeling (IRM) tool providing the ideal <strong>"source of truth"</strong> to power network automation.
 
 </div>
 
@@ -65,21 +65,21 @@ A curated list of awesome resources related to NetBox!
 
 ## Ansible
 
-* [netbox-community/ansible\_modules](https://github.com/netbox-community/ansible_modules) ⭐ 398 | 🐛 244 | 🌐 Python | 📅 2026-09-01 - NetBox modules for Ansible using Ansible Collections.
+* [netbox-community/ansible\_modules](https://github.com/netbox-community/ansible_modules) ⭐ 399 | 🐛 244 | 🌐 Python | 📅 2026-09-01 - NetBox modules for Ansible using Ansible Collections.
 * [lae/ansible-role-netbox](https://github.com/lae/ansible-role-netbox) ⭐ 224 | 🐛 18 | 🌐 Python | 📅 2026-06-17 - Cross-platform Ansible role for deploying NetBox.
-* [osism/ansible-collection-services](https://github.com/osism/ansible-collection-services) ⭐ 37 | 🐛 14 | 🌐 Python | 📅 2026-09-10 - Ansible collection with service roles.
+* [osism/ansible-collection-services](https://github.com/osism/ansible-collection-services) ⭐ 37 | 🐛 14 | 🌐 Python | 📅 2026-09-11 - Ansible collection with service roles.
 
 ## Deployment
 
 * [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) ⭐ 2,759 | 🐛 13 | 🌐 Python | 📅 2026-09-10 - Docker Image of NetBox.
-* [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ⭐ 355 | 🐛 8 | 🌐 Mustache | 📅 2026-09-08 - Helm Chart for NetBox.
+* [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ⭐ 355 | 🐛 9 | 🌐 Mustache | 📅 2026-09-11 - Helm Chart for NetBox.
 
 ## Utilities
 
-* [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library) ⭐ 1,596 | 🐛 35 | 🌐 Python | 📅 2026-09-10 - A collection of community-sourced DeviceType definitions.
-* [Solvik/netbox-agent](https://github.com/Solvik/netbox-agent) ⭐ 394 | 🐛 60 | 🌐 Python | 📅 2026-09-08 - Project aims to create hardware automatically into Netbox based on standard tools (dmidecode, lldpd, parsing /sys/, etc).
+* [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library) ⭐ 1,597 | 🐛 27 | 🌐 Python | 📅 2026-09-11 - A collection of community-sourced DeviceType definitions.
+* [Solvik/netbox-agent](https://github.com/Solvik/netbox-agent) ⭐ 394 | 🐛 61 | 🌐 Python | 📅 2026-09-10 - Project aims to create hardware automatically into Netbox based on standard tools (dmidecode, lldpd, parsing /sys/, etc).
 * [minitriga/Netbox-Device-Type-Library-Import](https://github.com/minitriga/Netbox-Device-Type-Library-Import) ⭐ 387 | 🐛 56 | 🌐 Python | 📅 2025-03-11 - The library is intended to be your friend and help you import all the device-types defined within the the NetBox Device Type Library Repository.
-* [lopes/netbox-scanner](https://github.com/lopes/netbox-scanner) ⭐ 206 | 🐛 17 | 🌐 Python | 📅 2026-06-05 - A scanner util for NetBox.
+* [lopes/netbox-scanner](https://github.com/lopes/netbox-scanner) ⭐ 207 | 🐛 17 | 🌐 Python | 📅 2026-06-05 - A scanner util for NetBox.
 * [den-it/ntmap](https://github.com/den-it/ntmap) ⭐ 165 | 🐛 14 | 🌐 JavaScript | 📅 2023-01-10 - Network topology map using Netbox as a data source.
 * [netreplica/graphite](https://github.com/netreplica/graphite?source=awesome-netbox) ⭐ 90 | 🐛 25 | 🌐 JavaScript | 📅 2026-08-22 - Standalone topology visualizer Netreplica `graphite`.
 * [NCCloud/netbox-resources-operator](https://github.com/NCCloud/netbox-resources-operator) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2026-06-25 - A Kubernetes operator to manage NetBox resources.
@@ -128,7 +128,7 @@ A curated list of awesome resources related to NetBox!
 
 ### Community
 
-* [GitHub Discussions](https://github.com/netbox-community/netbox/discussions) ⭐ 21,504 | 🐛 211 | 🌐 Python | 📅 2026-09-10 - Discussion forum hosted by GitHub; ideal for Q\&A and other structured discussions.
+* [GitHub Discussions](https://github.com/netbox-community/netbox/discussions) ⭐ 21,508 | 🐛 217 | 🌐 Python | 📅 2026-09-11 - Discussion forum hosted by GitHub; ideal for Q\&A and other structured discussions.
 * [Slack](https://netdev.chat/) - Real-time chat hosted by the NetDev Community; best for unstructured discussion or just hanging out.
 
 ### Videos
@@ -145,4 +145,4 @@ A curated list of awesome resources related to NetBox!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
