@@ -63,7 +63,7 @@
             "id": 284944501,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T17:17:49Z",
+            "last_commit": "2026-09-13T10:38:08Z",
             "open_issues": 13,
             "owner": "osism",
             "repo": "ansible-collection-services",
@@ -97,7 +97,7 @@
             "open_issues": 13,
             "owner": "netbox-community",
             "repo": "netbox-docker",
-            "stars": 2759,
+            "stars": 2761,
             "topics": [
               "docker",
               "docker-compose",
@@ -154,8 +154,8 @@
             "id": 210910084,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-11T13:02:12Z",
-            "open_issues": 29,
+            "last_commit": "2026-09-13T08:07:08Z",
+            "open_issues": 37,
             "owner": "netbox-community",
             "repo": "devicetype-library",
             "stars": 1598,
@@ -378,7 +378,7 @@
             "open_issues": 30,
             "owner": "bb-Ricardo",
             "repo": "netbox-sync",
-            "stars": 412,
+            "stars": 411,
             "topics": [
               "netbox",
               "netbox-automation",
@@ -737,7 +737,7 @@
                 "open_issues": 217,
                 "owner": "netbox-community",
                 "repo": "netbox",
-                "stars": 21510,
+                "stars": 21521,
                 "topics": [
                   "cabling",
                   "dcim",
@@ -762,7 +762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T15:50:30.073Z",
+    "last_updated": "2026-09-13T16:38:16.178Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome NetBox resources",
