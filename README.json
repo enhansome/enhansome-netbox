@@ -15,8 +15,8 @@
             "id": 204365310,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-01T15:12:40Z",
-            "open_issues": 244,
+            "last_commit": "2026-09-25T14:00:27Z",
+            "open_issues": 245,
             "owner": "netbox-community",
             "repo": "ansible_modules",
             "stars": 399,
@@ -63,7 +63,7 @@
             "id": 284944501,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-24T04:27:18Z",
+            "last_commit": "2026-09-25T04:03:59Z",
             "open_issues": 14,
             "owner": "osism",
             "repo": "ansible-collection-services",
@@ -97,7 +97,7 @@
             "open_issues": 17,
             "owner": "netbox-community",
             "repo": "netbox-docker",
-            "stars": 2778,
+            "stars": 2779,
             "topics": [
               "docker",
               "docker-compose",
@@ -121,11 +121,11 @@
             "id": 197973341,
             "language": "Mustache",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T22:48:22Z",
+            "last_commit": "2026-09-25T06:26:59Z",
             "open_issues": 7,
             "owner": "netbox-community",
             "repo": "netbox-chart",
-            "stars": 358,
+            "stars": 357,
             "topics": [
               "dcim",
               "helm",
@@ -154,11 +154,11 @@
             "id": 210910084,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-24T10:12:26Z",
-            "open_issues": 40,
+            "last_commit": "2026-09-25T10:56:01Z",
+            "open_issues": 43,
             "owner": "netbox-community",
             "repo": "devicetype-library",
-            "stars": 1608,
+            "stars": 1609,
             "topics": [
               "hacktoberfest",
               "netbox"
@@ -407,7 +407,7 @@
             "open_issues": 38,
             "owner": "TheNetworkGuy",
             "repo": "netbox-zabbix-sync",
-            "stars": 231,
+            "stars": 232,
             "topics": [
               "netbox",
               "zabbix"
@@ -475,11 +475,11 @@
             "id": 91131383,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T16:40:25Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-25T15:56:51Z",
+            "open_issues": 10,
             "owner": "netbox-community",
             "repo": "pynetbox",
-            "stars": 684,
+            "stars": 685,
             "topics": [
               "netbox",
               "netbox-api"
@@ -503,7 +503,7 @@
             "open_issues": 10,
             "owner": "netbox-community",
             "repo": "go-netbox",
-            "stars": 223,
+            "stars": 224,
             "topics": [
               "go",
               "netbox",
@@ -652,7 +652,7 @@
             "language": "Go",
             "license": "MPL-2.0",
             "last_commit": "2026-09-09T14:26:32Z",
-            "open_issues": 195,
+            "open_issues": 196,
             "owner": "e-breuninger",
             "repo": "terraform-provider-netbox",
             "stars": 294,
@@ -733,11 +733,11 @@
                 "id": 52796596,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T16:11:50Z",
+                "last_commit": "2026-09-25T16:26:29Z",
                 "open_issues": 221,
                 "owner": "netbox-community",
                 "repo": "netbox",
-                "stars": 21596,
+                "stars": 21602,
                 "topics": [
                   "cabling",
                   "dcim",
@@ -762,7 +762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T17:33:26.140Z",
+    "last_updated": "2026-09-25T17:33:09.076Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome NetBox resources",
