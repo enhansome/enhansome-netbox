@@ -63,7 +63,7 @@
             "id": 284944501,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T04:03:59Z",
+            "last_commit": "2026-09-25T21:25:06Z",
             "open_issues": 14,
             "owner": "osism",
             "repo": "ansible-collection-services",
@@ -97,7 +97,7 @@
             "open_issues": 17,
             "owner": "netbox-community",
             "repo": "netbox-docker",
-            "stars": 2779,
+            "stars": 2783,
             "topics": [
               "docker",
               "docker-compose",
@@ -121,7 +121,7 @@
             "id": 197973341,
             "language": "Mustache",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T06:26:59Z",
+            "last_commit": "2026-09-26T10:18:15Z",
             "open_issues": 7,
             "owner": "netbox-community",
             "repo": "netbox-chart",
@@ -155,10 +155,10 @@
             "language": "Python",
             "license": "CC0-1.0",
             "last_commit": "2026-09-25T10:56:01Z",
-            "open_issues": 43,
+            "open_issues": 44,
             "owner": "netbox-community",
             "repo": "devicetype-library",
-            "stars": 1609,
+            "stars": 1608,
             "topics": [
               "hacktoberfest",
               "netbox"
@@ -733,11 +733,11 @@
                 "id": 52796596,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T16:26:29Z",
-                "open_issues": 221,
+                "last_commit": "2026-09-26T05:02:38Z",
+                "open_issues": 224,
                 "owner": "netbox-community",
                 "repo": "netbox",
-                "stars": 21602,
+                "stars": 21604,
                 "topics": [
                   "cabling",
                   "dcim",
@@ -762,7 +762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T17:33:09.076Z",
+    "last_updated": "2026-09-26T16:46:25.294Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome NetBox resources",
