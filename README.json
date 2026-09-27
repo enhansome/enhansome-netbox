@@ -63,7 +63,7 @@
             "id": 284944501,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T21:25:06Z",
+            "last_commit": "2026-09-27T10:54:55Z",
             "open_issues": 14,
             "owner": "osism",
             "repo": "ansible-collection-services",
@@ -121,7 +121,7 @@
             "id": 197973341,
             "language": "Mustache",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-26T10:18:15Z",
+            "last_commit": "2026-09-27T16:53:56Z",
             "open_issues": 7,
             "owner": "netbox-community",
             "repo": "netbox-chart",
@@ -158,7 +158,7 @@
             "open_issues": 44,
             "owner": "netbox-community",
             "repo": "devicetype-library",
-            "stars": 1608,
+            "stars": 1607,
             "topics": [
               "hacktoberfest",
               "netbox"
@@ -374,8 +374,8 @@
             "id": 307420604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-24T12:24:02Z",
-            "open_issues": 27,
+            "last_commit": "2026-09-27T15:43:37Z",
+            "open_issues": 24,
             "owner": "bb-Ricardo",
             "repo": "netbox-sync",
             "stars": 415,
@@ -407,7 +407,7 @@
             "open_issues": 38,
             "owner": "TheNetworkGuy",
             "repo": "netbox-zabbix-sync",
-            "stars": 232,
+            "stars": 233,
             "topics": [
               "netbox",
               "zabbix"
@@ -651,7 +651,7 @@
             "id": 288719776,
             "language": "Go",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-09T14:26:32Z",
+            "last_commit": "2026-09-26T20:58:26Z",
             "open_issues": 196,
             "owner": "e-breuninger",
             "repo": "terraform-provider-netbox",
@@ -734,10 +734,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-26T05:02:38Z",
-                "open_issues": 224,
+                "open_issues": 225,
                 "owner": "netbox-community",
                 "repo": "netbox",
-                "stars": 21604,
+                "stars": 21607,
                 "topics": [
                   "cabling",
                   "dcim",
@@ -762,7 +762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T16:46:25.294Z",
+    "last_updated": "2026-09-27T17:18:07.315Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome NetBox resources",
