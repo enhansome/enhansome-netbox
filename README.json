@@ -182,7 +182,7 @@
             "open_issues": 62,
             "owner": "Solvik",
             "repo": "netbox-agent",
-            "stars": 394,
+            "stars": 395,
             "topics": [
               "agent",
               "dcim",
@@ -407,7 +407,7 @@
             "open_issues": 38,
             "owner": "TheNetworkGuy",
             "repo": "netbox-zabbix-sync",
-            "stars": 233,
+            "stars": 229,
             "topics": [
               "netbox",
               "zabbix"
@@ -733,11 +733,11 @@
                 "id": 52796596,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T17:03:46Z",
-                "open_issues": 225,
+                "last_commit": "2026-10-02T19:16:01Z",
+                "open_issues": 231,
                 "owner": "netbox-community",
                 "repo": "netbox",
-                "stars": 21641,
+                "stars": 21644,
                 "topics": [
                   "cabling",
                   "dcim",
@@ -762,7 +762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:02:46.923Z",
+    "last_updated": "2026-10-03T05:01:08.345Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome NetBox resources",

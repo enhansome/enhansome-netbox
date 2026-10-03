@@ -18,7 +18,7 @@ A curated list of awesome resources related to NetBox!
 
 <!-- description -->
 
-[NetBox](https://github.com/netbox-community/netbox) ⭐ 21,641 | 🐛 225 | 🌐 Python | 📅 2026-10-02 is an infrastructure resource modeling (IRM) tool providing the ideal <strong>"source of truth"</strong> to power network automation.
+[NetBox](https://github.com/netbox-community/netbox) ⭐ 21,644 | 🐛 231 | 🌐 Python | 📅 2026-10-02 is an infrastructure resource modeling (IRM) tool providing the ideal <strong>"source of truth"</strong> to power network automation.
 
 </div>
 
@@ -77,7 +77,7 @@ A curated list of awesome resources related to NetBox!
 ## Utilities
 
 * [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library) ⭐ 1,611 | 🐛 51 | 🌐 Python | 📅 2026-10-02 - A collection of community-sourced DeviceType definitions.
-* [Solvik/netbox-agent](https://github.com/Solvik/netbox-agent) ⭐ 394 | 🐛 62 | 🌐 Python | 📅 2026-10-01 - Project aims to create hardware automatically into Netbox based on standard tools (dmidecode, lldpd, parsing /sys/, etc).
+* [Solvik/netbox-agent](https://github.com/Solvik/netbox-agent) ⭐ 395 | 🐛 62 | 🌐 Python | 📅 2026-10-01 - Project aims to create hardware automatically into Netbox based on standard tools (dmidecode, lldpd, parsing /sys/, etc).
 * [minitriga/Netbox-Device-Type-Library-Import](https://github.com/minitriga/Netbox-Device-Type-Library-Import) ⭐ 389 | 🐛 56 | 🌐 Python | 📅 2025-03-11 - The library is intended to be your friend and help you import all the device-types defined within the the NetBox Device Type Library Repository.
 * [lopes/netbox-scanner](https://github.com/lopes/netbox-scanner) ⭐ 206 | 🐛 17 | 🌐 Python | 📅 2026-06-05 - A scanner util for NetBox.
 * [den-it/ntmap](https://github.com/den-it/ntmap) ⭐ 165 | 🐛 14 | 🌐 JavaScript | 📅 2023-01-10 - Network topology map using Netbox as a data source.
@@ -89,7 +89,7 @@ A curated list of awesome resources related to NetBox!
 ## Synchronization
 
 * [bb-Ricardo/netbox-sync](https://github.com/bb-Ricardo/netbox-sync) ⭐ 416 | 🐛 23 | 🌐 Python | 📅 2026-10-02 - Sync objects from VMware or redfish sources to NetBox.
-* [TheNetworkGuy/netbox-zabbix-sync](https://github.com/TheNetworkGuy/netbox-zabbix-sync) ⭐ 233 | 🐛 38 | 🌐 Python | 📅 2026-09-29 - Python script to syncronise Netbox devices to Zabbix.
+* [TheNetworkGuy/netbox-zabbix-sync](https://github.com/TheNetworkGuy/netbox-zabbix-sync) ⭐ 229 | 🐛 38 | 🌐 Python | 📅 2026-09-29 - Python script to syncronise Netbox devices to Zabbix.
 * [scaleway/netbox2netshot](https://github.com/scaleway/netbox2netshot) ⭐ 47 | 🐛 2 | 🌐 Rust | 📅 2025-01-30 - Inventory synchronization tool between Netbox and Netshot.
 * [sol1/icingaweb2-module-netbox](https://github.com/sol1/icingaweb2-module-netbox) ⭐ 37 | 🐛 1 | 🌐 PHP | 📅 2026-07-23 - Icingaweb2 module to syncronise Netbox objects Icinga Director.
 
@@ -128,7 +128,7 @@ A curated list of awesome resources related to NetBox!
 
 ### Community
 
-* [GitHub Discussions](https://github.com/netbox-community/netbox/discussions) ⭐ 21,641 | 🐛 225 | 🌐 Python | 📅 2026-10-02 - Discussion forum hosted by GitHub; ideal for Q\&A and other structured discussions.
+* [GitHub Discussions](https://github.com/netbox-community/netbox/discussions) ⭐ 21,644 | 🐛 231 | 🌐 Python | 📅 2026-10-02 - Discussion forum hosted by GitHub; ideal for Q\&A and other structured discussions.
 * [Slack](https://netdev.chat/) - Real-time chat hosted by the NetDev Community; best for unstructured discussion or just hanging out.
 
 ### Videos
@@ -145,4 +145,4 @@ A curated list of awesome resources related to NetBox!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
