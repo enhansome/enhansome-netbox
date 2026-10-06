@@ -64,7 +64,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-05T18:36:03Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "osism",
             "repo": "ansible-collection-services",
             "stars": 38,
@@ -155,7 +155,7 @@
             "language": "Python",
             "license": "CC0-1.0",
             "last_commit": "2026-10-06T09:59:18Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "netbox-community",
             "repo": "devicetype-library",
             "stars": 1614,
@@ -407,7 +407,7 @@
             "open_issues": 40,
             "owner": "TheNetworkGuy",
             "repo": "netbox-zabbix-sync",
-            "stars": 229,
+            "stars": 230,
             "topics": [
               "netbox",
               "zabbix"
@@ -733,11 +733,11 @@
                 "id": 52796596,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T10:28:59Z",
-                "open_issues": 229,
+                "last_commit": "2026-10-06T17:04:10Z",
+                "open_issues": 220,
                 "owner": "netbox-community",
                 "repo": "netbox",
-                "stars": 21658,
+                "stars": 21659,
                 "topics": [
                   "cabling",
                   "dcim",
@@ -762,7 +762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:03:29.171Z",
+    "last_updated": "2026-10-06T18:37:35.076Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome NetBox resources",
