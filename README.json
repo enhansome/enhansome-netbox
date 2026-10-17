@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-10-13T12:31:38Z",
-            "open_issues": 251,
+            "open_issues": 252,
             "owner": "netbox-community",
             "repo": "ansible_modules",
-            "stars": 400,
+            "stars": 401,
             "topics": []
           },
           "first_seen": "2026-08-28T22:41:06.804Z"
@@ -63,7 +63,7 @@
             "id": 284944501,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T16:01:21Z",
+            "last_commit": "2026-10-17T15:33:02Z",
             "open_issues": 14,
             "owner": "osism",
             "repo": "ansible-collection-services",
@@ -158,7 +158,7 @@
             "open_issues": 41,
             "owner": "netbox-community",
             "repo": "devicetype-library",
-            "stars": 1627,
+            "stars": 1628,
             "topics": [
               "hacktoberfest",
               "netbox"
@@ -733,11 +733,11 @@
                 "id": 52796596,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T14:02:04Z",
-                "open_issues": 234,
+                "last_commit": "2026-10-17T15:37:37Z",
+                "open_issues": 238,
                 "owner": "netbox-community",
                 "repo": "netbox",
-                "stars": 21706,
+                "stars": 21712,
                 "topics": [
                   "cabling",
                   "dcim",
@@ -762,7 +762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T16:58:12.014Z",
+    "last_updated": "2026-10-17T15:56:57.554Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome NetBox resources",
