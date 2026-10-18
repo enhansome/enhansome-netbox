@@ -18,7 +18,7 @@ A curated list of awesome resources related to NetBox!
 
 <!-- description -->
 
-[NetBox](https://github.com/netbox-community/netbox) ⭐ 21,712 | 🐛 238 | 🌐 Python | 📅 2026-10-17 is an infrastructure resource modeling (IRM) tool providing the ideal <strong>"source of truth"</strong> to power network automation.
+[NetBox](https://github.com/netbox-community/netbox) ⭐ 21,717 | 🐛 237 | 🌐 Python | 📅 2026-10-17 is an infrastructure resource modeling (IRM) tool providing the ideal <strong>"source of truth"</strong> to power network automation.
 
 </div>
 
@@ -65,9 +65,9 @@ A curated list of awesome resources related to NetBox!
 
 ## Ansible
 
-* [netbox-community/ansible\_modules](https://github.com/netbox-community/ansible_modules) ⭐ 401 | 🐛 252 | 🌐 Python | 📅 2026-10-13 - NetBox modules for Ansible using Ansible Collections.
+* [netbox-community/ansible\_modules](https://github.com/netbox-community/ansible_modules) ⭐ 401 | 🐛 253 | 🌐 Python | 📅 2026-10-13 - NetBox modules for Ansible using Ansible Collections.
 * [lae/ansible-role-netbox](https://github.com/lae/ansible-role-netbox) ⭐ 224 | 🐛 18 | 🌐 Python | 📅 2026-06-17 - Cross-platform Ansible role for deploying NetBox.
-* [osism/ansible-collection-services](https://github.com/osism/ansible-collection-services) ⭐ 38 | 🐛 14 | 🌐 Python | 📅 2026-10-17 - Ansible collection with service roles.
+* [osism/ansible-collection-services](https://github.com/osism/ansible-collection-services) ⭐ 38 | 🐛 15 | 🌐 Python | 📅 2026-10-18 - Ansible collection with service roles.
 
 ## Deployment
 
@@ -128,7 +128,7 @@ A curated list of awesome resources related to NetBox!
 
 ### Community
 
-* [GitHub Discussions](https://github.com/netbox-community/netbox/discussions) ⭐ 21,712 | 🐛 238 | 🌐 Python | 📅 2026-10-17 - Discussion forum hosted by GitHub; ideal for Q\&A and other structured discussions.
+* [GitHub Discussions](https://github.com/netbox-community/netbox/discussions) ⭐ 21,717 | 🐛 237 | 🌐 Python | 📅 2026-10-17 - Discussion forum hosted by GitHub; ideal for Q\&A and other structured discussions.
 * [Slack](https://netdev.chat/) - Real-time chat hosted by the NetDev Community; best for unstructured discussion or just hanging out.
 
 ### Videos
@@ -145,4 +145,4 @@ A curated list of awesome resources related to NetBox!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
