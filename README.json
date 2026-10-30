@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-10-13T12:31:38Z",
-            "open_issues": 254,
+            "open_issues": 255,
             "owner": "netbox-community",
             "repo": "ansible_modules",
             "stars": 404,
@@ -63,7 +63,7 @@
             "id": 284944501,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T17:15:39Z",
+            "last_commit": "2026-10-30T10:38:31Z",
             "open_issues": 16,
             "owner": "osism",
             "repo": "ansible-collection-services",
@@ -97,7 +97,7 @@
             "open_issues": 16,
             "owner": "netbox-community",
             "repo": "netbox-docker",
-            "stars": 2805,
+            "stars": 2808,
             "topics": [
               "docker",
               "docker-compose",
@@ -125,7 +125,7 @@
             "open_issues": 10,
             "owner": "netbox-community",
             "repo": "netbox-chart",
-            "stars": 364,
+            "stars": 365,
             "topics": [
               "dcim",
               "helm",
@@ -154,11 +154,11 @@
             "id": 210910084,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-29T16:17:19Z",
-            "open_issues": 192,
+            "last_commit": "2026-10-30T09:13:49Z",
+            "open_issues": 193,
             "owner": "netbox-community",
             "repo": "devicetype-library",
-            "stars": 1636,
+            "stars": 1638,
             "topics": [
               "hacktoberfest",
               "netbox"
@@ -733,11 +733,11 @@
                 "id": 52796596,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T18:30:21Z",
-                "open_issues": 246,
+                "last_commit": "2026-10-30T17:58:14Z",
+                "open_issues": 256,
                 "owner": "netbox-community",
                 "repo": "netbox",
-                "stars": 21786,
+                "stars": 21802,
                 "topics": [
                   "cabling",
                   "dcim",
@@ -762,7 +762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T18:39:24.060Z",
+    "last_updated": "2026-10-30T18:13:57.002Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome NetBox resources",
