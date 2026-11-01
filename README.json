@@ -63,7 +63,7 @@
             "id": 284944501,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T12:23:01Z",
+            "last_commit": "2026-11-01T13:13:41Z",
             "open_issues": 16,
             "owner": "osism",
             "repo": "ansible-collection-services",
@@ -154,11 +154,11 @@
             "id": 210910084,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-31T09:44:53Z",
-            "open_issues": 191,
+            "last_commit": "2026-11-01T14:23:12Z",
+            "open_issues": 192,
             "owner": "netbox-community",
             "repo": "devicetype-library",
-            "stars": 1639,
+            "stars": 1640,
             "topics": [
               "hacktoberfest",
               "netbox"
@@ -374,8 +374,8 @@
             "id": 307420604,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-31T17:04:46Z",
-            "open_issues": 24,
+            "last_commit": "2026-10-31T19:08:13Z",
+            "open_issues": 25,
             "owner": "bb-Ricardo",
             "repo": "netbox-sync",
             "stars": 417,
@@ -655,7 +655,7 @@
             "open_issues": 171,
             "owner": "e-breuninger",
             "repo": "terraform-provider-netbox",
-            "stars": 299,
+            "stars": 300,
             "topics": [
               "netbox",
               "terraform",
@@ -737,7 +737,7 @@
                 "open_issues": 262,
                 "owner": "netbox-community",
                 "repo": "netbox",
-                "stars": 21821,
+                "stars": 21829,
                 "topics": [
                   "cabling",
                   "dcim",
@@ -762,7 +762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T17:21:50.826Z",
+    "last_updated": "2026-11-01T18:07:14.990Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome NetBox resources",
