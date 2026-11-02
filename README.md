@@ -18,7 +18,7 @@ A curated list of awesome resources related to NetBox!
 
 <!-- description -->
 
-[NetBox](https://github.com/netbox-community/netbox) ⭐ 21,829 | 🐛 262 | 🌐 Python | 📅 2026-10-31 is an infrastructure resource modeling (IRM) tool providing the ideal <strong>"source of truth"</strong> to power network automation.
+[NetBox](https://github.com/netbox-community/netbox) ⭐ 21,833 | 🐛 260 | 🌐 Python | 📅 2026-11-02 is an infrastructure resource modeling (IRM) tool providing the ideal <strong>"source of truth"</strong> to power network automation.
 
 </div>
 
@@ -71,15 +71,15 @@ A curated list of awesome resources related to NetBox!
 
 ## Deployment
 
-* [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) ⭐ 2,809 | 🐛 16 | 🌐 Python | 📅 2026-10-29 - Docker Image of NetBox.
-* [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ⭐ 365 | 🐛 10 | 🌐 Mustache | 📅 2026-10-30 - Helm Chart for NetBox.
+* [netbox-community/netbox-docker](https://github.com/netbox-community/netbox-docker) ⭐ 2,810 | 🐛 16 | 🌐 Python | 📅 2026-10-29 - Docker Image of NetBox.
+* [netbox-community/netbox-chart](https://github.com/netbox-community/netbox-chart) ⭐ 365 | 🐛 10 | 🌐 Mustache | 📅 2026-11-02 - Helm Chart for NetBox.
 
 ## Utilities
 
-* [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library) ⭐ 1,640 | 🐛 192 | 🌐 Python | 📅 2026-11-01 - A collection of community-sourced DeviceType definitions.
+* [netbox-community/devicetype-library](https://github.com/netbox-community/devicetype-library) ⭐ 1,642 | 🐛 174 | 🌐 Python | 📅 2026-11-02 - A collection of community-sourced DeviceType definitions.
 * [Solvik/netbox-agent](https://github.com/Solvik/netbox-agent) ⭐ 395 | 🐛 61 | 🌐 Python | 📅 2026-10-28 - Project aims to create hardware automatically into Netbox based on standard tools (dmidecode, lldpd, parsing /sys/, etc).
 * [minitriga/Netbox-Device-Type-Library-Import](https://github.com/minitriga/Netbox-Device-Type-Library-Import) ⭐ 392 | 🐛 56 | 🌐 Python | 📅 2025-03-11 - The library is intended to be your friend and help you import all the device-types defined within the the NetBox Device Type Library Repository.
-* [lopes/netbox-scanner](https://github.com/lopes/netbox-scanner) ⭐ 208 | 🐛 19 | 🌐 Python | 📅 2026-10-23 - A scanner util for NetBox.
+* [lopes/netbox-scanner](https://github.com/lopes/netbox-scanner) ⭐ 208 | 🐛 17 | 🌐 Python | 📅 2026-11-02 - A scanner util for NetBox.
 * [den-it/ntmap](https://github.com/den-it/ntmap) ⭐ 164 | 🐛 14 | 🌐 JavaScript | 📅 2023-01-10 - Network topology map using Netbox as a data source.
 * [netreplica/graphite](https://github.com/netreplica/graphite?source=awesome-netbox) ⭐ 91 | 🐛 25 | 🌐 JavaScript | 📅 2026-10-27 - Standalone topology visualizer Netreplica `graphite`.
 * [NCCloud/netbox-resources-operator](https://github.com/NCCloud/netbox-resources-operator) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2026-06-25 - A Kubernetes operator to manage NetBox resources.
@@ -88,14 +88,14 @@ A curated list of awesome resources related to NetBox!
 
 ## Synchronization
 
-* [bb-Ricardo/netbox-sync](https://github.com/bb-Ricardo/netbox-sync) ⭐ 417 | 🐛 25 | 🌐 Python | 📅 2026-10-31 - Sync objects from VMware or redfish sources to NetBox.
+* [bb-Ricardo/netbox-sync](https://github.com/bb-Ricardo/netbox-sync) ⭐ 417 | 🐛 26 | 🌐 Python | 📅 2026-10-31 - Sync objects from VMware or redfish sources to NetBox.
 * [TheNetworkGuy/netbox-zabbix-sync](https://github.com/TheNetworkGuy/netbox-zabbix-sync) ⭐ 233 | 🐛 26 | 🌐 Python | 📅 2026-10-26 - Python script to syncronise Netbox devices to Zabbix.
 * [scaleway/netbox2netshot](https://github.com/scaleway/netbox2netshot) ⭐ 47 | 🐛 2 | 🌐 Rust | 📅 2025-01-30 - Inventory synchronization tool between Netbox and Netshot.
 * [sol1/icingaweb2-module-netbox](https://github.com/sol1/icingaweb2-module-netbox) ⭐ 37 | 🐛 3 | 🌐 PHP | 📅 2026-07-23 - Icingaweb2 module to syncronise Netbox objects Icinga Director.
 
 ## SDKs
 
-* [netbox-community/pynetbox](https://github.com/netbox-community/pynetbox) ⭐ 690 | 🐛 6 | 🌐 Python | 📅 2026-10-21 - Python API client library.
+* [netbox-community/pynetbox](https://github.com/netbox-community/pynetbox) ⭐ 690 | 🐛 6 | 🌐 Python | 📅 2026-11-02 - Python API client library.
 * [netbox-community/go-netbox](https://github.com/netbox-community/go-netbox) ⭐ 225 | 🐛 12 | 🌐 Go | 📅 2025-05-09 - Go API client library.
 * [benclaussen/NetboxPS](https://github.com/benclaussen/NetboxPS) ⚠️ Archived - Powershell module for Netbox.
 * [ninech/netbox-client-ruby](https://github.com/ninech/netbox-client-ruby) ⭐ 27 | 🐛 10 | 🌐 Ruby | 📅 2026-07-08 - Ruby API client library (NetBox v2).
@@ -105,7 +105,7 @@ A curated list of awesome resources related to NetBox!
 
 ## Terraform
 
-* [e-breuninger/terraform-provider-netbox](https://github.com/e-breuninger/terraform-provider-netbox) ⭐ 300 | 🐛 171 | 🌐 Go | 📅 2026-10-23 - Terraform provider to interact with Netbox.
+* [e-breuninger/terraform-provider-netbox](https://github.com/e-breuninger/terraform-provider-netbox) ⭐ 300 | 🐛 172 | 🌐 Go | 📅 2026-11-02 - Terraform provider to interact with Netbox.
 * [smutel/terraform-provider-netbox](https://github.com/smutel/terraform-provider-netbox) ⭐ 67 | 🐛 5 | 🌐 Go | 📅 2026-10-04 - Terraform provider for Netbox.
 
 ## Resources
@@ -128,7 +128,7 @@ A curated list of awesome resources related to NetBox!
 
 ### Community
 
-* [GitHub Discussions](https://github.com/netbox-community/netbox/discussions) ⭐ 21,829 | 🐛 262 | 🌐 Python | 📅 2026-10-31 - Discussion forum hosted by GitHub; ideal for Q\&A and other structured discussions.
+* [GitHub Discussions](https://github.com/netbox-community/netbox/discussions) ⭐ 21,833 | 🐛 260 | 🌐 Python | 📅 2026-11-02 - Discussion forum hosted by GitHub; ideal for Q\&A and other structured discussions.
 * [Slack](https://netdev.chat/) - Real-time chat hosted by the NetDev Community; best for unstructured discussion or just hanging out.
 
 ### Videos
@@ -145,4 +145,4 @@ A curated list of awesome resources related to NetBox!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
