@@ -63,7 +63,7 @@
             "id": 284944501,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T22:53:21Z",
+            "last_commit": "2026-11-08T15:22:31Z",
             "open_issues": 15,
             "owner": "osism",
             "repo": "ansible-collection-services",
@@ -94,10 +94,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-06T05:17:36Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "netbox-community",
             "repo": "netbox-docker",
-            "stars": 2814,
+            "stars": 2815,
             "topics": [
               "docker",
               "docker-compose",
@@ -155,7 +155,7 @@
             "language": "Python",
             "license": "CC0-1.0",
             "last_commit": "2026-11-07T08:28:54Z",
-            "open_issues": 160,
+            "open_issues": 164,
             "owner": "netbox-community",
             "repo": "devicetype-library",
             "stars": 1647,
@@ -737,7 +737,7 @@
                 "open_issues": 263,
                 "owner": "netbox-community",
                 "repo": "netbox",
-                "stars": 21857,
+                "stars": 21858,
                 "topics": [
                   "cabling",
                   "dcim",
@@ -762,7 +762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T17:51:40.039Z",
+    "last_updated": "2026-11-08T18:05:27.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome NetBox resources",
