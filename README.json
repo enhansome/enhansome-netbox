@@ -63,7 +63,7 @@
             "id": 284944501,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-11T14:57:02Z",
+            "last_commit": "2026-11-12T07:56:24Z",
             "open_issues": 14,
             "owner": "osism",
             "repo": "ansible-collection-services",
@@ -93,7 +93,7 @@
             "id": 88978363,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T05:17:36Z",
+            "last_commit": "2026-11-12T13:31:15Z",
             "open_issues": 17,
             "owner": "netbox-community",
             "repo": "netbox-docker",
@@ -125,7 +125,7 @@
             "open_issues": 12,
             "owner": "netbox-community",
             "repo": "netbox-chart",
-            "stars": 366,
+            "stars": 365,
             "topics": [
               "dcim",
               "helm",
@@ -154,11 +154,11 @@
             "id": 210910084,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-11-11T06:16:23Z",
-            "open_issues": 160,
+            "last_commit": "2026-11-12T18:16:52Z",
+            "open_issues": 155,
             "owner": "netbox-community",
             "repo": "devicetype-library",
-            "stars": 1649,
+            "stars": 1648,
             "topics": [
               "hacktoberfest",
               "netbox"
@@ -375,7 +375,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-11-11T18:24:27Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "bb-Ricardo",
             "repo": "netbox-sync",
             "stars": 420,
@@ -479,7 +479,7 @@
             "open_issues": 2,
             "owner": "netbox-community",
             "repo": "pynetbox",
-            "stars": 693,
+            "stars": 694,
             "topics": [
               "netbox",
               "netbox-api"
@@ -733,11 +733,11 @@
                 "id": 52796596,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-11T16:48:26Z",
-                "open_issues": 275,
+                "last_commit": "2026-11-12T20:08:59Z",
+                "open_issues": 267,
                 "owner": "netbox-community",
                 "repo": "netbox",
-                "stars": 21871,
+                "stars": 21874,
                 "topics": [
                   "cabling",
                   "dcim",
@@ -762,7 +762,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T19:52:22.357Z",
+    "last_updated": "2026-11-12T20:27:50.583Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome NetBox resources",
